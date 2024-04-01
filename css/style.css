@@ -1,0 +1,19 @@
+.services{
+    background-color:white;
+    text-align: center;
+}
+h2{
+    color: black;
+}
+p{
+    color: gray;
+}
+.sub-service{
+    display: inline-block;
+    width: 25%;
+    
+}
+i{
+    color: orangered;
+    width: 100px;
+}
